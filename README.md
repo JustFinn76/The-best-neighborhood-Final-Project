@@ -1,6 +1,6 @@
 # The-best-neighborhood-Final-Project
 
-Team Name:
+Team Name: Team Flippincoins
 
 Team Members: Finn Snyder (fis14@pitt.edu), Haofeng Li (haofengli@pitt.edu)
 
